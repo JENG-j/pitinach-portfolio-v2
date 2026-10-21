@@ -1,0 +1,86 @@
+CONTENT REVIEW — PITINACH PORTFOLIO V2
+
+Source: only the supplied prompt, subsequent user messages and uploaded images. No website content was fetched.
+
+English sentences composed from supplied facts (not verbatim in the detailed English prompt):
+1. Experience in data analysis, digital marketing, business strategy and automotive content creation.
+   Source: requested short introduction, using only listed experience.
+2. Awarded a Silpakorn University scholarship for a short-term exchange in Taiwan.
+   Source: user’s earlier Thai scholarship update and latest Taiwan instruction.
+3. Received a certificate in Taiwan.
+   Source: latest user message identifying the certificate photo.
+
+Thai introduction:
+มีประสบการณ์ด้านการวิเคราะห์ข้อมูล การตลาดดิจิทัล กลยุทธ์ธุรกิจ และการสร้างคอนเทนต์ยานยนต์.
+
+All Thai bullet translations (not verbatim in the supplied English prompt):
+
+Data Analyst & Digital Marketing Intern — Villa Market JP Co., Ltd.
+- การวิเคราะห์ข้อมูลเชิงกลยุทธ์: สร้างแดชบอร์ด Power BI ที่ครอบคลุมเพื่อแสดงผลการดำเนินงานด้านยอดขาย แผนที่ความหนาแน่นของลูกค้า และการแบ่งกลุ่มลูกค้า โดยสนับสนุนการตัดสินใจของผู้บริหารโดยตรง.
+- การปรับปรุงประสิทธิภาพการตลาด: ค้นพบข้อมูลเชิงลึกสำคัญที่นำไปสู่การนำลิงก์ภายนอกออกจากโฆษณา Facebook Ads ซึ่งช่วยลดต้นทุนต่อผลลัพธ์ได้อย่างมาก (บางแคมเปญลดลงประมาณ 50% ในการปรับปรุงรอบแรก).
+- การบริหารสื่อโฆษณาแบบชำระเงิน: บริหารและปรับปรุงงบโฆษณาหลายช่องทาง (50,000–300,000 บาทต่อเดือน) บน Facebook, TikTok และ YouTube โดยใช้การกำหนดเป้าหมายตามพื้นที่เพื่อเพิ่มจำนวนผู้เข้าร้าน.
+- การตรวจสอบ UX/UI: ตรวจสอบเว็บไซต์เชิงลึก ระบุช่องว่างด้าน SEO และความไม่สอดคล้องของคำค้นหา (เช่น ปัญหาการค้นหาด้วยคำค้นบางส่วน) เพื่อนำไปสู่กลยุทธ์การปรับปรุงที่นำไปปฏิบัติได้จริง.
+
+Strategic Planner (Business Strategy Internship) — Business Services Alliance Co., Ltd.
+- วาระการประชุมคณะกรรมการ: จัดทำร่างวาระการประชุมคณะกรรมการ.
+- การนำเสนอข้อมูลทางการเงินและการคำนวณค่าใช้จ่าย: จัดทำงานนำเสนอข้อมูลทางการเงินและคำนวณค่าใช้จ่าย.
+- การวิเคราะห์โครงสร้างรายได้: ศึกษาและทำความเข้าใจโครงสร้างรายได้ของ 5 บริษัทพร้อมกัน ครอบคลุมธุรกิจค้าปลีก น้ำมัน บริการ พลังงาน และสถานีบริการน้ำมัน.
+- การวิจัยคู่แข่งและแนวโน้ม: ประเมินทิศทางของคู่แข่งและศึกษาแนวโน้มในอนาคตของหลายบริษัท.
+
+TED Fund (Youth Startup) — Thailand Government Startup Tech Grant
+- ได้รับการสนับสนุนจาก TED Fund ของรัฐบาลไทย ภายใต้กลุ่ม Youth Startup (Startup Tech).
+- โครงการ: สร้างแพลตฟอร์มสตาร์ทอัพ ซึ่งเป็นแอปจัดการค่าใช้จ่าย สถานะ: ยังไม่เปิดเผยต่อสาธารณะ.
+
+Marketing Team (Content Marketing Intern) — TPCS Public Company Limited (Welcare)
+- การสร้างคอนเทนต์ไวรัล: คิดแนวทางและผลิตคอนเทนต์วิดีโอสั้นบน TikTok โดยวิดีโอหนึ่งชิ้นสร้างการมีส่วนร่วมมากกว่า 3,000 ครั้ง สูงกว่าเกณฑ์มาตรฐานภายใน.
+- การได้รับการยอมรับจากผลงาน: ได้รับเงินพิเศษตามผลงานจากการทำได้เกินเป้าหมาย KPI ด้วยกลยุทธ์คอนเทนต์ที่ขับเคลื่อนด้วยข้อมูลและการวิเคราะห์พฤติกรรมผู้ชม.
+
+Assistant Instructor (AI & Digital Tools) — Ministry of Foreign Affairs (Thailand)
+- การดำเนินกิจกรรมเวิร์กช็อป: ได้รับเลือกเป็นผู้ช่วยวิทยากรในเวิร์กช็อป "Upskill Your Presentation with Digital Tools" ณ กระทรวงการต่างประเทศ (ประเทศไทย).
+- การประยุกต์ใช้ AI: แนะนำผู้เข้าร่วมเกี่ยวกับการนำเทคโนโลยี AI มาใช้ในกระบวนการทำงาน เพื่อเพิ่มประสิทธิภาพงานนำเสนอและทักษะความเข้าใจด้านดิจิทัล.
+
+Technical Staff & Score Coordinator — 9th National Academic Conference (Political Science)
+- การสนับสนุนระบบเบื้องหลัง: ดูแลระบบการสอบและระบบให้คะแนนสำหรับการแข่งขันตอบปัญหาวิชาการระดับอุดมศึกษา.
+- การดำเนินงานระบบ: ดูแลให้กระบวนการให้คะแนนมีความถูกต้องและทำงานได้อย่างราบรื่นตลอดงานระดับชาติ.
+- ความรับผิดชอบ: ดูแลงานเบื้องหลังทั้งหมด จัดทำข้อสอบ และสร้างระบบให้คะแนน.
+
+Automotive Media Creator: Video Editor, Content Planner & On-camera Presenter — Grip the World (YouTube, TikTok, Instagram)
+- รับผิดชอบการวางแผนคอนเทนต์ การตัดต่อวิดีโอ และการนำเสนอหน้ากล้องบน YouTube, TikTok และ Instagram สำหรับช่องยานยนต์.
+
+Short-term Exchange Student — Silpakorn University
+- ทุนการศึกษา: ได้รับทุนจากมหาวิทยาลัยศิลปากรเพื่อไปแลกเปลี่ยนระยะสั้นที่ไต้หวัน.
+- ประกาศนียบัตร: รับประกาศนียบัตรที่ไต้หวัน.
+
+Marketing Manager & Event MC — Bangrak Entrepreneur Club
+- การเป็นผู้นำเชิงกลยุทธ์: เป็นผู้นำในการดำเนินงานด้านการตลาดของชมรม ประสานงานทีม และส่งเสริมกิจกรรมด้านผู้ประกอบการ.
+- การเป็นพิธีกรงาน: ทำหน้าที่พิธีกรหลักของงาน "The Startup Mindset Roadshow 2024" ดำเนินช่วงต่าง ๆ และรักษาบรรยากาศความกระตือรือร้นตลอดทั้งงาน.
+
+Professional MC & Public Speaking Trainee
+- การพัฒนาทักษะ: ผ่านการฝึกอบรมเข้มข้นด้านการเป็นพิธีกรภาษาอังกฤษ (MC) และเทคนิคการพูดในที่สาธารณะ โดยเน้นบุคลิกและการแสดงออกบนเวที การใช้เสียง และการสร้างการมีส่วนร่วมของผู้ฟัง.
+
+Site Visit & Student Representative — Wangchan Valley (PTT)
+- การสำรวจระบบนิเวศ: เข้าร่วมศึกษาดูงานที่ Wangchan Valley เพื่อเรียนรู้เกี่ยวกับศูนย์กลางนวัตกรรมและเทคโนโลยีของประเทศไทย (EECi).
+- การกล่าวขอบคุณ: ได้รับเลือกเป็นตัวแทนนักศึกษาเพื่อกล่าวปิดและแสดงความขอบคุณต่อคณะผู้บริหาร PTT.
+- ความเข้าใจด้านการบริหาร: เข้าร่วมศึกษาดูงานแบบเจาะลึก ณ สำนักงานใหญ่ PTT เพื่อเรียนรู้เกี่ยวกับโครงสร้างองค์กรและแนวปฏิบัติด้านการบริหารองค์กรจากผู้บริหารระดับสูง.
+
+Video Editing & Visual Storytelling
+- งานหลังการถ่ายทำ: มีทักษะการตัดต่อวิดีโอ โดยเน้นจังหวะ การปรับสี และความต่อเนื่องของการเล่าเรื่องเพื่อดึงดูดความสนใจของผู้ชม.
+- คอนเทนต์หลายรูปแบบ: ผลิตคอนเทนต์วิดีโอหลากหลายรูปแบบ ตั้งแต่คลิปสั้นบนสื่อสังคมออนไลน์ (TikTok/Reels) ไปจนถึงการเล่าเรื่องแบบวิดีโอขนาดยาว.
+
+3D Design & Visualization
+- การสร้างแบบจำลองพื้นที่และวัตถุ: มีประสบการณ์สร้างแบบจำลองและสภาพแวดล้อม 3 มิติ โดยเน้นภาพจำลองผลิตภัณฑ์และศิลปะนามธรรม.
+- การดำเนินงานด้านเทคนิค: ใช้ Blender เพื่อเปลี่ยนแนวคิดให้เป็นชิ้นงาน 3 มิติคุณภาพสูง.
+
+Additional UI text/captions — labels or noun phrases, not new factual sentences:
+Thai headings/navigation: ประสบการณ์, ภาวะผู้นำ, งานอื่น ๆ, ติดต่อ, ประสบการณ์และโครงการ, ภาวะผู้นำและการสื่อสาร, งานอดิเรก.
+English extra heading: Hobbies (requested in latest Thai instruction).
+Student at Silpakorn University / นักศึกษามหาวิทยาลัยศิลปากร (explicitly requested intro fact).
+Email / อีเมล; TH; EN; LinkedIn; Main navigation / เมนูหลัก; Language / ภาษา.
+Activity reference / หลักฐานกิจกรรม; Grip the World YouTube channel / ช่อง YouTube ของ Grip the World.
+Photo captions: Workshop at the Ministry of Foreign Affairs (Thailand) / เวิร์กช็อป ณ กระทรวงการต่างประเทศ (ประเทศไทย); 9th National Academic Conference (Political Science) / การประชุมวิชาการระดับชาติ ครั้งที่ 9 (รัฐศาสตร์); MC & public speaking training / การฝึกอบรมพิธีกรและการพูดในที่สาธารณะ; Site visit / การศึกษาดูงาน; Receiving a certificate in Taiwan / รับประกาศนียบัตรที่ไต้หวัน.
+Role titles, dates and metadata are faithfully translated; provided organization names are retained. No legal suffix was invented for organizations without a suffix in the supplied text.
+
+Entries without photographs:
+Villa Market JP Co., Ltd.; Business Services Alliance Co., Ltd.; TED Fund (Youth Startup); TPCS Public Company Limited (Welcare); Grip the World; Bangrak Entrepreneur Club (MC photos deferred by user); Video Editing & Visual Storytelling; 3D Design & Visualization (photos deferred by user).
+
+Images 2–6 in the latest upload are reference screenshots for wording, not display photographs. Site visit uses the 2 supplied photos; no missing third photo was fabricated. No video embeds, phone number or birth date are included.

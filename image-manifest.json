@@ -1,0 +1,142 @@
+[
+  {
+    "file": "assets/images/profile.webp",
+    "original_size": [
+      800,
+      800
+    ],
+    "size": [
+      640,
+      640
+    ],
+    "original_bytes": 546965,
+    "bytes": 23468,
+    "source": "1758729698282.png"
+  },
+  {
+    "file": "assets/images/workshop-1.webp",
+    "original_size": [
+      1536,
+      2730
+    ],
+    "size": [
+      675,
+      1200
+    ],
+    "original_bytes": 5579161,
+    "bytes": 142932,
+    "source": "codex-clipboard-7d132e0e-79be-49d7-991a-dd21523316c2.png"
+  },
+  {
+    "file": "assets/images/workshop-2.webp",
+    "original_size": [
+      1152,
+      2048
+    ],
+    "size": [
+      675,
+      1200
+    ],
+    "original_bytes": 1989521,
+    "bytes": 82484,
+    "source": "codex-clipboard-187f4a71-4bf1-402d-8ad6-d880a600126a.png"
+  },
+  {
+    "file": "assets/images/conference-1.webp",
+    "original_size": [
+      2445,
+      1484
+    ],
+    "size": [
+      1200,
+      728
+    ],
+    "original_bytes": 4320071,
+    "bytes": 96132,
+    "source": "codex-clipboard-6889ac58-18ff-4e4a-a074-11d52b618c20.png"
+  },
+  {
+    "file": "assets/images/conference-2.webp",
+    "original_size": [
+      1108,
+      1477
+    ],
+    "size": [
+      900,
+      1200
+    ],
+    "original_bytes": 2148599,
+    "bytes": 107592,
+    "source": "codex-clipboard-7b437017-7a86-4a9a-8765-939623de4bc3.png"
+  },
+  {
+    "file": "assets/images/training-1.webp",
+    "original_size": [
+      1567,
+      1045
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 2717153,
+    "bytes": 161268,
+    "source": "codex-clipboard-90de3fec-d470-4f6a-b70f-2cfe7ba67883.png"
+  },
+  {
+    "file": "assets/images/training-2.webp",
+    "original_size": [
+      1706,
+      960
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "original_bytes": 1215260,
+    "bytes": 45222,
+    "source": "codex-clipboard-3dada514-a8d9-4222-a089-503b1a248789.png"
+  },
+  {
+    "file": "assets/images/site-visit-1.webp",
+    "original_size": [
+      1567,
+      1045
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 2302815,
+    "bytes": 119440,
+    "source": "codex-clipboard-3ec61288-de35-4bb2-bc78-fd34cf5bae08.png"
+  },
+  {
+    "file": "assets/images/site-visit-2.webp",
+    "original_size": [
+      1108,
+      1477
+    ],
+    "size": [
+      900,
+      1200
+    ],
+    "original_bytes": 2539486,
+    "bytes": 163886,
+    "source": "codex-clipboard-f866dd4b-1dc5-4167-86da-3128517ccb8a.png"
+  },
+  {
+    "file": "assets/images/taiwan-certificate.webp",
+    "original_size": [
+      2048,
+      1365
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 2114008,
+    "bytes": 39474,
+    "source": "codex-clipboard-f571df3c-e81b-4592-86ab-1906aaf3cc16.png"
+  }
+]

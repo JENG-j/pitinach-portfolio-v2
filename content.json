@@ -1,0 +1,520 @@
+{
+  "experience": [
+    {
+      "id": "villa-market",
+      "role": [
+        "นักวิเคราะห์ข้อมูลและนักศึกษาฝึกงานด้านการตลาดดิจิทัล",
+        "Data Analyst & Digital Marketing Intern"
+      ],
+      "org": "Villa Market JP Co., Ltd.",
+      "date": [
+        "ม.ค. 2023 – ต.ค. 2024 · พาร์ตไทม์, ทำงานทางไกล",
+        "Jan 2023 – Oct 2024 · Part-time, Remote"
+      ],
+      "bullets": [
+        {
+          "label": [
+            "การวิเคราะห์ข้อมูลเชิงกลยุทธ์",
+            "Strategic Data Analysis"
+          ],
+          "text": [
+            "สร้างแดชบอร์ด Power BI ที่ครอบคลุมเพื่อแสดงผลการดำเนินงานด้านยอดขาย แผนที่ความหนาแน่นของลูกค้า และการแบ่งกลุ่มลูกค้า โดยสนับสนุนการตัดสินใจของผู้บริหารโดยตรง.",
+            "Built comprehensive Power BI dashboards to visualize sales performance, customer heatmaps, and segmentation, directly supporting executive decision-making."
+          ]
+        },
+        {
+          "label": [
+            "การปรับปรุงประสิทธิภาพการตลาด",
+            "Marketing Optimization"
+          ],
+          "text": [
+            "ค้นพบข้อมูลเชิงลึกสำคัญที่นำไปสู่การนำลิงก์ภายนอกออกจากโฆษณา Facebook Ads ซึ่งช่วยลดต้นทุนต่อผลลัพธ์ได้อย่างมาก (บางแคมเปญลดลงประมาณ 50% ในการปรับปรุงรอบแรก).",
+            "Identified critical insights to remove external links from Facebook Ads, which significantly lowered cost-per-result (some campaigns saw ~50% reduction during the first optimization round)."
+          ]
+        },
+        {
+          "label": [
+            "การบริหารสื่อโฆษณาแบบชำระเงิน",
+            "Paid Media Management"
+          ],
+          "text": [
+            "บริหารและปรับปรุงงบโฆษณาหลายช่องทาง (50,000–300,000 บาทต่อเดือน) บน Facebook, TikTok และ YouTube โดยใช้การกำหนดเป้าหมายตามพื้นที่เพื่อเพิ่มจำนวนผู้เข้าร้าน.",
+            "Managed and optimized multi-channel advertising budgets (50k–300k THB/month) across Facebook, TikTok, and YouTube, utilizing geo-targeting to drive store traffic."
+          ]
+        },
+        {
+          "label": [
+            "การตรวจสอบ UX/UI",
+            "UX/UI Audit"
+          ],
+          "text": [
+            "ตรวจสอบเว็บไซต์เชิงลึก ระบุช่องว่างด้าน SEO และความไม่สอดคล้องของคำค้นหา (เช่น ปัญหาการค้นหาด้วยคำค้นบางส่วน) เพื่อนำไปสู่กลยุทธ์การปรับปรุงที่นำไปปฏิบัติได้จริง.",
+            "Conducted in-depth website audits, identifying SEO gaps and keyword mismatches (e.g., partial keyword search issues), leading to actionable improvement strategies."
+          ]
+        }
+      ],
+      "images": [],
+      "link": null
+    },
+    {
+      "id": "business-services-alliance",
+      "role": [
+        "นักวางแผนกลยุทธ์ (ฝึกงานด้านกลยุทธ์ธุรกิจ)",
+        "Strategic Planner (Business Strategy Internship)"
+      ],
+      "org": "Business Services Alliance Co., Ltd.",
+      "date": [
+        "เม.ย. 2026 – มิ.ย. 2026",
+        "Apr 2026 – Jun 2026"
+      ],
+      "bullets": [
+        {
+          "label": [
+            "วาระการประชุมคณะกรรมการ",
+            "Board Meeting Agendas"
+          ],
+          "text": [
+            "จัดทำร่างวาระการประชุมคณะกรรมการ.",
+            "Drafted board meeting agendas."
+          ]
+        },
+        {
+          "label": [
+            "การนำเสนอข้อมูลทางการเงินและการคำนวณค่าใช้จ่าย",
+            "Financial Presentations & Cost Calculation"
+          ],
+          "text": [
+            "จัดทำงานนำเสนอข้อมูลทางการเงินและคำนวณค่าใช้จ่าย.",
+            "Prepared financial presentations and calculated expenses."
+          ]
+        },
+        {
+          "label": [
+            "การวิเคราะห์โครงสร้างรายได้",
+            "Revenue Structure Analysis"
+          ],
+          "text": [
+            "ศึกษาและทำความเข้าใจโครงสร้างรายได้ของ 5 บริษัทพร้อมกัน ครอบคลุมธุรกิจค้าปลีก น้ำมัน บริการ พลังงาน และสถานีบริการน้ำมัน.",
+            "Studied and understood the revenue structure of 5 companies at the same time, across retail, oil, services, energy, and gas station businesses."
+          ]
+        },
+        {
+          "label": [
+            "การวิจัยคู่แข่งและแนวโน้ม",
+            "Competitor & Trend Research"
+          ],
+          "text": [
+            "ประเมินทิศทางของคู่แข่งและศึกษาแนวโน้มในอนาคตของหลายบริษัท.",
+            "Assessed competitor direction and researched future trends across multiple companies."
+          ]
+        }
+      ],
+      "images": [],
+      "link": null
+    },
+    {
+      "id": "ted-fund",
+      "role": [
+        "TED Fund (Youth Startup)",
+        "TED Fund (Youth Startup)"
+      ],
+      "org": [
+        "ทุน Startup Tech จากรัฐบาลไทย",
+        "Thailand Government Startup Tech Grant"
+      ],
+      "date": [
+        "3 สิงหาคม 2026",
+        "3 August 2026"
+      ],
+      "bullets": [
+        {
+          "label": [
+            "",
+            ""
+          ],
+          "text": [
+            "ได้รับการสนับสนุนจาก TED Fund ของรัฐบาลไทย ภายใต้กลุ่ม Youth Startup (Startup Tech).",
+            "Awarded TED Fund support from the Thai government under the Youth Startup track (Startup Tech)."
+          ]
+        },
+        {
+          "label": [
+            "โครงการ",
+            "Project"
+          ],
+          "text": [
+            "สร้างแพลตฟอร์มสตาร์ทอัพ ซึ่งเป็นแอปจัดการค่าใช้จ่าย สถานะ: ยังไม่เปิดเผยต่อสาธารณะ.",
+            "Built a startup platform, an expense-management app. Status: not yet public."
+          ]
+        }
+      ],
+      "images": [],
+      "link": null
+    },
+    {
+      "id": "tpcs-welcare",
+      "role": [
+        "ทีมการตลาด (นักศึกษาฝึกงานด้านคอนเทนต์มาร์เก็ตติ้ง)",
+        "Marketing Team (Content Marketing Intern)"
+      ],
+      "org": "TPCS Public Company Limited (Welcare)",
+      "date": [
+        "เม.ย. 2025 – มิ.ย. 2025 · ประเทศไทย, ทำงานแบบผสมผสาน",
+        "Apr 2025 – Jun 2025 · Thailand, Hybrid"
+      ],
+      "bullets": [
+        {
+          "label": [
+            "การสร้างคอนเทนต์ไวรัล",
+            "Viral Content Creation"
+          ],
+          "text": [
+            "คิดแนวทางและผลิตคอนเทนต์วิดีโอสั้นบน TikTok โดยวิดีโอหนึ่งชิ้นสร้างการมีส่วนร่วมมากกว่า 3,000 ครั้ง สูงกว่าเกณฑ์มาตรฐานภายใน.",
+            "Conceptualized and produced TikTok short-form content, achieving 3,000+ engagements on a single video, surpassing internal benchmarks."
+          ]
+        },
+        {
+          "label": [
+            "การได้รับการยอมรับจากผลงาน",
+            "Performance Recognition"
+          ],
+          "text": [
+            "ได้รับเงินพิเศษตามผลงานจากการทำได้เกินเป้าหมาย KPI ด้วยกลยุทธ์คอนเทนต์ที่ขับเคลื่อนด้วยข้อมูลและการวิเคราะห์พฤติกรรมผู้ชม.",
+            "Awarded a special performance allowance for exceeding KPI targets through data-driven content strategies and audience behavior analysis."
+          ]
+        }
+      ],
+      "images": [],
+      "link": null
+    },
+    {
+      "id": "foreign-affairs",
+      "role": [
+        "ผู้ช่วยวิทยากร (AI และเครื่องมือดิจิทัล)",
+        "Assistant Instructor (AI & Digital Tools)"
+      ],
+      "org": [
+        "กระทรวงการต่างประเทศ (ประเทศไทย)",
+        "Ministry of Foreign Affairs (Thailand)"
+      ],
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การดำเนินกิจกรรมเวิร์กช็อป",
+            "Workshop Facilitator"
+          ],
+          "text": [
+            "ได้รับเลือกเป็นผู้ช่วยวิทยากรในเวิร์กช็อป \"Upskill Your Presentation with Digital Tools\" ณ กระทรวงการต่างประเทศ (ประเทศไทย).",
+            "Selected as an assistant instructor for the \"Upskill Your Presentation with Digital Tools\" workshop at the Ministry of Foreign Affairs (Thailand)."
+          ]
+        },
+        {
+          "label": [
+            "การประยุกต์ใช้ AI",
+            "AI Implementation"
+          ],
+          "text": [
+            "แนะนำผู้เข้าร่วมเกี่ยวกับการนำเทคโนโลยี AI มาใช้ในกระบวนการทำงาน เพื่อเพิ่มประสิทธิภาพงานนำเสนอและทักษะความเข้าใจด้านดิจิทัล.",
+            "Guided participants on integrating AI technologies into workflow processes to enhance presentation efficiency and digital literacy."
+          ]
+        }
+      ],
+      "images": [
+        "workshop-1",
+        "workshop-2"
+      ],
+      "link": "https://www.facebook.com/100064489007991/posts/1287865803373041/"
+    },
+    {
+      "id": "academic-conference",
+      "role": [
+        "เจ้าหน้าที่เทคนิคและผู้ประสานงานคะแนน",
+        "Technical Staff & Score Coordinator"
+      ],
+      "org": [
+        "การประชุมวิชาการระดับชาติ ครั้งที่ 9 (รัฐศาสตร์)",
+        "9th National Academic Conference (Political Science)"
+      ],
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การสนับสนุนระบบเบื้องหลัง",
+            "Backend Support"
+          ],
+          "text": [
+            "ดูแลระบบการสอบและระบบให้คะแนนสำหรับการแข่งขันตอบปัญหาวิชาการระดับอุดมศึกษา.",
+            "Managed the examination and scoring systems for the higher-education-level academic quiz competition."
+          ]
+        },
+        {
+          "label": [
+            "การดำเนินงานระบบ",
+            "System Operations"
+          ],
+          "text": [
+            "ดูแลให้กระบวนการให้คะแนนมีความถูกต้องและทำงานได้อย่างราบรื่นตลอดงานระดับชาติ.",
+            "Ensured the accuracy and smooth operation of the scoring process during the national-level event."
+          ]
+        },
+        {
+          "label": [
+            "ความรับผิดชอบ",
+            "Responsibilities"
+          ],
+          "text": [
+            "ดูแลงานเบื้องหลังทั้งหมด จัดทำข้อสอบ และสร้างระบบให้คะแนน.",
+            "Looked after the entire backend, created the exam questions, and built the scoring system."
+          ]
+        }
+      ],
+      "images": [
+        "conference-1",
+        "conference-2"
+      ],
+      "link": "https://www.facebook.com/mssilpakorn/posts/pfbid08xtGH37GTnmfhwJNvtHajLhp2iH54AWT1hzDuPGySSKJmSYe85RxrZpSb9hdgVu4l"
+    },
+    {
+      "id": "grip-the-world",
+      "role": [
+        "ผู้สร้างสื่อยานยนต์: นักตัดต่อวิดีโอ นักวางแผนคอนเทนต์ และผู้นำเสนอหน้ากล้อง",
+        "Automotive Media Creator: Video Editor, Content Planner & On-camera Presenter"
+      ],
+      "org": "Grip the World (YouTube, TikTok, Instagram)",
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "",
+            ""
+          ],
+          "text": [
+            "รับผิดชอบการวางแผนคอนเทนต์ การตัดต่อวิดีโอ และการนำเสนอหน้ากล้องบน YouTube, TikTok และ Instagram สำหรับช่องยานยนต์.",
+            "Handles content planning, video editing and on-camera presenting across YouTube, TikTok and Instagram for the automotive channel."
+          ]
+        }
+      ],
+      "images": [],
+      "link": "https://www.youtube.com/@GripTheWorld-s9k"
+    },
+    {
+      "id": "taiwan-exchange",
+      "role": [
+        "นักศึกษาแลกเปลี่ยนระยะสั้น",
+        "Short-term Exchange Student"
+      ],
+      "org": [
+        "มหาวิทยาลัยศิลปากร",
+        "Silpakorn University"
+      ],
+      "date": [
+        "ไต้หวัน",
+        "Taiwan"
+      ],
+      "bullets": [
+        {
+          "label": [
+            "ทุนการศึกษา",
+            "Scholarship"
+          ],
+          "text": [
+            "ได้รับทุนจากมหาวิทยาลัยศิลปากรเพื่อไปแลกเปลี่ยนระยะสั้นที่ไต้หวัน.",
+            "Awarded a Silpakorn University scholarship for a short-term exchange in Taiwan."
+          ]
+        },
+        {
+          "label": [
+            "ประกาศนียบัตร",
+            "Certificate"
+          ],
+          "text": [
+            "รับประกาศนียบัตรที่ไต้หวัน.",
+            "Received a certificate in Taiwan."
+          ]
+        }
+      ],
+      "images": [
+        "taiwan-certificate"
+      ],
+      "link": null
+    }
+  ],
+  "leadership": [
+    {
+      "id": "bangrak",
+      "role": [
+        "ผู้จัดการฝ่ายการตลาดและพิธีกรงาน",
+        "Marketing Manager & Event MC"
+      ],
+      "org": "Bangrak Entrepreneur Club",
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การเป็นผู้นำเชิงกลยุทธ์",
+            "Strategic Leadership"
+          ],
+          "text": [
+            "เป็นผู้นำในการดำเนินงานด้านการตลาดของชมรม ประสานงานทีม และส่งเสริมกิจกรรมด้านผู้ประกอบการ.",
+            "Spearheaded marketing initiatives for the club, coordinating team and promoting entrepreneurship activities."
+          ]
+        },
+        {
+          "label": [
+            "การเป็นพิธีกรงาน",
+            "Event Host"
+          ],
+          "text": [
+            "ทำหน้าที่พิธีกรหลักของงาน \"The Startup Mindset Roadshow 2024\" ดำเนินช่วงต่าง ๆ และรักษาบรรยากาศความกระตือรือร้นตลอดทั้งงาน.",
+            "Served as the official MC for \"The Startup Mindset Roadshow 2024,\" facilitating sessions and maintaining energy flow throughout the event."
+          ]
+        }
+      ],
+      "images": [],
+      "link": "https://www.facebook.com/mssilpakorn/posts/pfbid04SEYdcyHjXdZfX7D3X81BzUZfaNNpEXVYQhxwxJSzWh5tWcEnQBHKJ1jZ3zSYwPkl"
+    },
+    {
+      "id": "mc-training",
+      "role": [
+        "ผู้เข้ารับการฝึกอบรมพิธีกรมืออาชีพและการพูดในที่สาธารณะ",
+        "Professional MC & Public Speaking Trainee"
+      ],
+      "org": null,
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การพัฒนาทักษะ",
+            "Skill Development"
+          ],
+          "text": [
+            "ผ่านการฝึกอบรมเข้มข้นด้านการเป็นพิธีกรภาษาอังกฤษ (MC) และเทคนิคการพูดในที่สาธารณะ โดยเน้นบุคลิกและการแสดงออกบนเวที การใช้เสียง และการสร้างการมีส่วนร่วมของผู้ฟัง.",
+            "Completed intensive training in English Master of Ceremonies (MC) and public speaking techniques, focusing on stage presence, voice projection, and audience engagement."
+          ]
+        }
+      ],
+      "images": [
+        "training-1",
+        "training-2"
+      ],
+      "link": "https://www.facebook.com/mssilpakorn/posts/pfbid04SEYdcyHjXdZfX7D3X81BzUZfaNNpEXVYQhxwxJSzWh5tWcEnQBHKJ1jZ3zSYwPkl"
+    },
+    {
+      "id": "wangchan-valley",
+      "role": [
+        "ผู้เข้าร่วมศึกษาดูงานและตัวแทนนักศึกษา",
+        "Site Visit & Student Representative"
+      ],
+      "org": "Wangchan Valley (PTT)",
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การสำรวจระบบนิเวศ",
+            "Ecosystem Exploration"
+          ],
+          "text": [
+            "เข้าร่วมศึกษาดูงานที่ Wangchan Valley เพื่อเรียนรู้เกี่ยวกับศูนย์กลางนวัตกรรมและเทคโนโลยีของประเทศไทย (EECi).",
+            "Participated in a site visit to Wangchan Valley to learn about Thailand's innovation and technology hub (EECi)."
+          ]
+        },
+        {
+          "label": [
+            "การกล่าวขอบคุณ",
+            "Appreciation Speech"
+          ],
+          "text": [
+            "ได้รับเลือกเป็นตัวแทนนักศึกษาเพื่อกล่าวปิดและแสดงความขอบคุณต่อคณะผู้บริหาร PTT.",
+            "Selected as the student representative to deliver the closing remarks and express gratitude to the PTT management team."
+          ]
+        },
+        {
+          "label": [
+            "ความเข้าใจด้านการบริหาร",
+            "Management Insight"
+          ],
+          "text": [
+            "เข้าร่วมศึกษาดูงานแบบเจาะลึก ณ สำนักงานใหญ่ PTT เพื่อเรียนรู้เกี่ยวกับโครงสร้างองค์กรและแนวปฏิบัติด้านการบริหารองค์กรจากผู้บริหารระดับสูง.",
+            "Participated in a focused study visit at PTT Headquarters to learn about organizational structure and corporate management practices from senior executives."
+          ]
+        }
+      ],
+      "images": [
+        "site-visit-1",
+        "site-visit-2"
+      ],
+      "link": null
+    }
+  ],
+  "other": [
+    {
+      "id": "video-editing",
+      "role": [
+        "การตัดต่อวิดีโอและการเล่าเรื่องด้วยภาพ",
+        "Video Editing & Visual Storytelling"
+      ],
+      "org": null,
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "งานหลังการถ่ายทำ",
+            "Post-Production"
+          ],
+          "text": [
+            "มีทักษะการตัดต่อวิดีโอ โดยเน้นจังหวะ การปรับสี และความต่อเนื่องของการเล่าเรื่องเพื่อดึงดูดความสนใจของผู้ชม.",
+            "Skilled in video editing with a focus on pacing, color grading, and narrative flow to capture audience attention."
+          ]
+        },
+        {
+          "label": [
+            "คอนเทนต์หลายรูปแบบ",
+            "Multi-Format Content"
+          ],
+          "text": [
+            "ผลิตคอนเทนต์วิดีโอหลากหลายรูปแบบ ตั้งแต่คลิปสั้นบนสื่อสังคมออนไลน์ (TikTok/Reels) ไปจนถึงการเล่าเรื่องแบบวิดีโอขนาดยาว.",
+            "Produced a wide range of video content, from short-form social media clips (TikTok/Reels) to long-form storytelling."
+          ]
+        }
+      ],
+      "images": [],
+      "link": "https://www.youtube.com/@GripTheWorld-s9k"
+    }
+  ],
+  "hobbies": [
+    {
+      "id": "3d-design",
+      "role": [
+        "การออกแบบและสร้างภาพ 3 มิติ",
+        "3D Design & Visualization"
+      ],
+      "org": null,
+      "date": null,
+      "bullets": [
+        {
+          "label": [
+            "การสร้างแบบจำลองพื้นที่และวัตถุ",
+            "Spatial & Object Modeling"
+          ],
+          "text": [
+            "มีประสบการณ์สร้างแบบจำลองและสภาพแวดล้อม 3 มิติ โดยเน้นภาพจำลองผลิตภัณฑ์และศิลปะนามธรรม.",
+            "Experienced in creating 3D models and environments, focusing on Product Mockups and Abstract Art."
+          ]
+        },
+        {
+          "label": [
+            "การดำเนินงานด้านเทคนิค",
+            "Technical Execution"
+          ],
+          "text": [
+            "ใช้ Blender เพื่อเปลี่ยนแนวคิดให้เป็นชิ้นงาน 3 มิติคุณภาพสูง.",
+            "Utilizing Blender to transform concepts into high-quality 3D assets."
+          ]
+        }
+      ],
+      "images": [],
+      "link": null
+    }
+  ]
+}
