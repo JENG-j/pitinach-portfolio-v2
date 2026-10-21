@@ -138,5 +138,75 @@
     "original_bytes": 2114008,
     "bytes": 39474,
     "source": "codex-clipboard-f571df3c-e81b-4592-86ab-1906aaf3cc16.png"
+  },
+  {
+    "file": "assets/images/taiwan-group.webp",
+    "original_size": [
+      2048,
+      1365
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 2115651,
+    "bytes": 78896,
+    "source": "codex-clipboard-edf82dab-4811-4636-899f-b9b54f57c01a.png"
+  },
+  {
+    "file": "assets/images/taiwan-classroom.webp",
+    "original_size": [
+      2048,
+      1365
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 1663077,
+    "bytes": 56360,
+    "source": "codex-clipboard-3e2c99e3-1153-4e99-af75-1574901d0952.png"
+  },
+  {
+    "file": "assets/images/event-mc-1.webp",
+    "original_size": [
+      1440,
+      954
+    ],
+    "size": [
+      1200,
+      795
+    ],
+    "original_bytes": 1489140,
+    "bytes": 89342,
+    "source": "codex-clipboard-d797e01b-86e8-4a56-86d2-6657c435e161.png"
+  },
+  {
+    "file": "assets/images/event-mc-2.webp",
+    "original_size": [
+      1440,
+      960
+    ],
+    "size": [
+      1200,
+      800
+    ],
+    "original_bytes": 1284363,
+    "bytes": 68342,
+    "source": "codex-clipboard-020f129c-98fd-4687-8a0e-0a15b3a05268.png"
+  },
+  {
+    "file": "assets/images/site-visit-3.webp",
+    "original_size": [
+      1108,
+      1477
+    ],
+    "size": [
+      900,
+      1200
+    ],
+    "original_bytes": 3246013,
+    "bytes": 215250,
+    "source": "image.png"
   }
 ]

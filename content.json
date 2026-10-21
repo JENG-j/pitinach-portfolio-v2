@@ -194,8 +194,8 @@
         "Assistant Instructor (AI & Digital Tools)"
       ],
       "org": [
-        "กระทรวงการต่างประเทศ (ประเทศไทย)",
-        "Ministry of Foreign Affairs (Thailand)"
+        "กระทรวงการต่างประเทศ",
+        "Ministry of Foreign Affairs"
       ],
       "date": null,
       "bullets": [
@@ -205,8 +205,8 @@
             "Workshop Facilitator"
           ],
           "text": [
-            "ได้รับเลือกเป็นผู้ช่วยวิทยากรในเวิร์กช็อป \"Upskill Your Presentation with Digital Tools\" ณ กระทรวงการต่างประเทศ (ประเทศไทย).",
-            "Selected as an assistant instructor for the \"Upskill Your Presentation with Digital Tools\" workshop at the Ministry of Foreign Affairs (Thailand)."
+            "ได้รับเลือกเป็นผู้ช่วยวิทยากรในเวิร์กช็อป \"Upskill Your Presentation with Digital Tools\" ณ กระทรวงการต่างประเทศ.",
+            "Selected as an assistant instructor for the \"Upskill Your Presentation with Digital Tools\" workshop at the Ministry of Foreign Affairs."
           ]
         },
         {
@@ -301,13 +301,10 @@
     {
       "id": "taiwan-exchange",
       "role": [
-        "นักศึกษาแลกเปลี่ยนระยะสั้น",
-        "Short-term Exchange Student"
+        "นักศึกษาแลกเปลี่ยนประเทศไต้หวัน",
+        "Exchange Student in Taiwan"
       ],
-      "org": [
-        "มหาวิทยาลัยศิลปากร",
-        "Silpakorn University"
-      ],
+      "org": null,
       "date": [
         "ไต้หวัน",
         "Taiwan"
@@ -315,12 +312,32 @@
       "bullets": [
         {
           "label": [
-            "ทุนการศึกษา",
+            "โครงการ",
+            "Program"
+          ],
+          "text": [
+            "เข้าร่วมโครงการ SUMS Global Business Readiness & Cross-Cultural Learning Program ณ Ming Chuan University (MCU).",
+            "Participated in the SUMS Global Business Readiness & Cross-Cultural Learning Program at Ming Chuan University (MCU)."
+          ]
+        },
+        {
+          "label": [
+            "ทุนสนับสนุน",
             "Scholarship"
           ],
           "text": [
-            "ได้รับทุนจากมหาวิทยาลัยศิลปากรเพื่อไปแลกเปลี่ยนระยะสั้นที่ไต้หวัน.",
-            "Awarded a Silpakorn University scholarship for a short-term exchange in Taiwan."
+            "ได้รับทุนสนับสนุนจากคณะวิทยาการจัดการเพื่อเรียนรู้และเสริมสร้างศักยภาพในบริบทนานาชาติ.",
+            "Received funding support from the Faculty of Management Science to learn and develop capabilities in an international context."
+          ]
+        },
+        {
+          "label": [
+            "การเรียนรู้",
+            "Learning"
+          ],
+          "text": [
+            "โครงการมุ่งเน้นการเสริมสร้างความรู้และความเข้าใจด้านธุรกิจระหว่างประเทศ แนวโน้มเศรษฐกิจโลก การทำงานและการสื่อสารข้ามวัฒนธรรม.",
+            "The program focused on developing knowledge and understanding of international business, global economic trends, and cross-cultural working and communication."
           ]
         },
         {
@@ -335,9 +352,15 @@
         }
       ],
       "images": [
-        "taiwan-certificate"
+        "taiwan-certificate",
+        "taiwan-group",
+        "taiwan-classroom"
       ],
-      "link": null
+      "link": null,
+      "links": [
+        "https://www.instagram.com/p/DZMmvHxE67-/",
+        "https://www.facebook.com/mssilpakorn/videos/2205325730232271/"
+      ]
     }
   ],
   "leadership": [
@@ -371,7 +394,10 @@
           ]
         }
       ],
-      "images": [],
+      "images": [
+        "event-mc-1",
+        "event-mc-2"
+      ],
       "link": "https://www.facebook.com/mssilpakorn/posts/pfbid04SEYdcyHjXdZfX7D3X81BzUZfaNNpEXVYQhxwxJSzWh5tWcEnQBHKJ1jZ3zSYwPkl"
     },
     {
@@ -442,7 +468,8 @@
       ],
       "images": [
         "site-visit-1",
-        "site-visit-2"
+        "site-visit-2",
+        "site-visit-3"
       ],
       "link": null
     }

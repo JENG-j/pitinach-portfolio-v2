@@ -1,25 +1,8 @@
 {
+  "defaultLanguage": "en",
   "entries": 13,
-  "bulletsEachLanguage": 30,
-  "photographs": 10,
-  "defaultLanguage": "th",
-  "textColumnMaxPx": 760,
-  "allImagePathsLocal": true,
-  "noEmbeds": true,
-  "noPhone": true,
-  "noTruncationControls": true,
-  "experienceOrder": [
-    "villa-market",
-    "business-services-alliance",
-    "ted-fund",
-    "tpcs-welcare",
-    "foreign-affairs",
-    "academic-conference",
-    "grip-the-world",
-    "taiwan-exchange"
-  ],
-  "imageBytes": 981898,
-  "fontFamily": "Noto Sans Thai",
-  "source": "User prompt and uploaded files only",
-  "originalRepositoriesModified": false
+  "bulletsEachLanguage": 32,
+  "photographs": 15,
+  "linkPreviews": "Local cards using uploaded images; no remote embeds",
+  "profilePhotoCaption": false
 }

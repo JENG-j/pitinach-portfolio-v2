@@ -1,7 +1,7 @@
 Pitinach Chutiprachakij — Portfolio v2
 
 Static HTML, CSS and JavaScript. No build step or dependencies required.
-Thai is the default. Language choice is stored under pitinach-portfolio-v2-language.
+English is the default. Language choice is stored under pitinach-portfolio-v2-language-english-default.
 All English bullets are rendered in full; Thai translations contain the same facts.
 Only uploaded user photographs are displayed, locally in assets/images.
 Noto Sans Thai is locally hosted with its OFL license.
