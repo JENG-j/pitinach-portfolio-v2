@@ -301,8 +301,8 @@
     {
       "id": "taiwan-exchange",
       "role": [
-        "นักศึกษาแลกเปลี่ยนประเทศไต้หวัน",
-        "Exchange Student in Taiwan"
+        "ทุนการศึกษาไต้หวัน",
+        "Taiwan Scholarship"
       ],
       "org": null,
       "date": [
@@ -338,16 +338,6 @@
           "text": [
             "โครงการมุ่งเน้นการเสริมสร้างความรู้และความเข้าใจด้านธุรกิจระหว่างประเทศ แนวโน้มเศรษฐกิจโลก การทำงานและการสื่อสารข้ามวัฒนธรรม.",
             "The program focused on developing knowledge and understanding of international business, global economic trends, and cross-cultural working and communication."
-          ]
-        },
-        {
-          "label": [
-            "ประกาศนียบัตร",
-            "Certificate"
-          ],
-          "text": [
-            "รับประกาศนียบัตรที่ไต้หวัน.",
-            "Received a certificate in Taiwan."
           ]
         }
       ],

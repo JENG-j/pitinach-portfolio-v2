@@ -1,16 +1,12 @@
 Pitinach Chutiprachakij — Portfolio v2
 
-Static HTML, CSS and JavaScript. No build step or dependencies required.
-English is the default. Language choice is stored under pitinach-portfolio-v2-language-english-default.
-All English bullets are rendered in full; Thai translations contain the same facts.
-Only uploaded user photographs are displayed, locally in assets/images.
-Noto Sans Thai is locally hosted with its OFL license.
+Static HTML, CSS and JavaScript. English default, remembered TH/EN choice.
+31 complete bullets per language; 13 entries.
+Uploaded photographs and four company logos are optimized locally in assets/images. Six authentic social-post preview images are cached locally with provenance in post-previews.json.
+Noto Sans Thai is self-hosted with its OFL license.
 
-GitHub Pages: deploy from main, / (root).
+Compact photo galleries open full-size photos. Company shortcuts jump to the matching language entry. Software tools: 16, grouped into 5 categories, collapsed near the profile and fully displayed below. Software has no links. Guide provides section navigation. No video embeds.
+
+GitHub Pages: main / (root).
 Repository: https://github.com/JENG-j/pitinach-portfolio-v2
-
-content-review.txt lists non-verbatim prose and all Thai translations.
-text-inventory.json pairs every Thai and English bullet.
-image-manifest.json records the uploaded image sources and optimized dimensions.
-content.json is the structured content source.
-No existing repository was used as a source.
+Content audit: content-review.txt and text-inventory.json. Structured content: content.json. Original photo provenance: image-manifest.json.

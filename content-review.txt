@@ -1,17 +1,20 @@
 Content review — updated portfolio
 
-All original English bullets are preserved except the requested removal of (Thailand) from the Ministry of Foreign Affairs entry. The Taiwan section has been expanded using only the latest user-supplied description.
+All original work bullets remain complete, with the user-requested removal of (Thailand) in the Ministry entry. The certificate sentence was removed as requested. There are 31 bullets per language.
 
-English introduction composed from supplied facts:
-Experience in data analysis, digital marketing, business strategy and automotive content creation.
+Sentences composed or translated from user facts rather than copied verbatim from the English prompt:
+- Experience in data analysis, digital marketing, business strategy and automotive content creation.
+- Participated in the SUMS Global Business Readiness & Cross-Cultural Learning Program at Ming Chuan University (MCU).
+- Received funding support from the Faculty of Management Science to learn and develop capabilities in an international context.
+- The program focused on developing knowledge and understanding of international business, global economic trends, and cross-cultural working and communication.
 
-Taiwan sentences translated from user-supplied Thai facts:
-Participated in the SUMS Global Business Readiness & Cross-Cultural Learning Program at Ming Chuan University (MCU).
-Received funding support from the Faculty of Management Science to learn and develop capabilities in an international context.
-The program focused on developing knowledge and understanding of international business, global economic trends, and cross-cultural working and communication.
-Received a certificate in Taiwan.
+Thai introduction: มีประสบการณ์ด้านการวิเคราะห์ข้อมูล การตลาดดิจิทัล กลยุทธ์ธุรกิจ และการสร้างคอนเทนต์ยานยนต์.
+All Thai work sentences are faithful translations and are listed below. No other biographical sentences were added.
 
-Complete Thai and English bullet inventory:
+Added interface labels: Guide / นำทาง; Top / ด้านบน; Software & tools / โปรแกรมที่ใช้; Close / ปิด; Enlarge photo / ขยายรูป; Open link / เปิดลิงก์. Software category headings and app initials are navigation labels, not additional skill-level claims.
+Actual social-post preview publisher titles come from Open Graph metadata; post-previews.json records their origin. Preview images are cached locally. No post descriptions were copied into the portfolio.
+
+Complete bilingual bullet inventory:
 villa-market
 EN: Strategic Data Analysis: Built comprehensive Power BI dashboards to visualize sales performance, customer heatmaps, and segmentation, directly supporting executive decision-making.
 TH: การวิเคราะห์ข้อมูลเชิงกลยุทธ์: สร้างแดชบอร์ด Power BI ที่ครอบคลุมเพื่อแสดงผลการดำเนินงานด้านยอดขาย แผนที่ความหนาแน่นของลูกค้า และการแบ่งกลุ่มลูกค้า โดยสนับสนุนการตัดสินใจของผู้บริหารโดยตรง.
@@ -96,10 +99,6 @@ taiwan-exchange
 EN: Learning: The program focused on developing knowledge and understanding of international business, global economic trends, and cross-cultural working and communication.
 TH: การเรียนรู้: โครงการมุ่งเน้นการเสริมสร้างความรู้และความเข้าใจด้านธุรกิจระหว่างประเทศ แนวโน้มเศรษฐกิจโลก การทำงานและการสื่อสารข้ามวัฒนธรรม.
 
-taiwan-exchange
-EN: Certificate: Received a certificate in Taiwan.
-TH: ประกาศนียบัตร: รับประกาศนียบัตรที่ไต้หวัน.
-
 bangrak
 EN: Strategic Leadership: Spearheaded marketing initiatives for the club, coordinating team and promoting entrepreneurship activities.
 TH: การเป็นผู้นำเชิงกลยุทธ์: เป็นผู้นำในการดำเนินงานด้านการตลาดของชมรม ประสานงานทีม และส่งเสริมกิจกรรมด้านผู้ประกอบการ.
@@ -139,7 +138,3 @@ TH: การสร้างแบบจำลองพื้นที่แล�
 3d-design
 EN: Technical Execution: Utilizing Blender to transform concepts into high-quality 3D assets.
 TH: การดำเนินงานด้านเทคนิค: ใช้ Blender เพื่อเปลี่ยนแนวคิดให้เป็นชิ้นงาน 3 มิติคุณภาพสูง.
-
-Link card titles repeat their entry titles. Platform names and Open link / เปิดลิงก์ are interface labels. Thumbnails use only uploaded local photographs. No remote preview content, iframes or embedded videos are used.
-
-No photographs: Villa Market JP Co., Ltd.; Business Services Alliance Co., Ltd.; TED Fund; TPCS Public Company Limited (Welcare); Grip the World; Video Editing & Visual Storytelling; 3D Design & Visualization.

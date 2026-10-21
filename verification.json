@@ -1,8 +1,11 @@
 {
-  "defaultLanguage": "en",
   "entries": 13,
-  "bulletsEachLanguage": 32,
-  "photographs": 15,
-  "linkPreviews": "Local cards using uploaded images; no remote embeds",
-  "profilePhotoCaption": false
+  "bullets_per_language": 31,
+  "main_photos": 15,
+  "company_logos": 4,
+  "post_previews": 6,
+  "software_tools": 16,
+  "software_categories": 5,
+  "missing_local_assets": [],
+  "video_embeds": false
 }
